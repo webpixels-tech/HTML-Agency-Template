@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'HaboroSoft-NorBoo';
+    src: url('HaboroSoft-NorBoo.woff2') format('woff2'),
+        url('HaboroSoft-NorBoo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtReg';
+    src: url('HaboroSoft-ExtReg.woff2') format('woff2'),
+        url('HaboroSoft-ExtReg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-NorLig';
+    src: url('HaboroSoft-NorLig.woff2') format('woff2'),
+        url('HaboroSoft-NorLig.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtDem';
+    src: url('HaboroSoft-ExtDem.woff2') format('woff2'),
+        url('HaboroSoft-ExtDem.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtBoo';
+    src: url('HaboroSoft-ExtBoo.woff2') format('woff2'),
+        url('HaboroSoft-ExtBoo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConLig';
+    src: url('HaboroSoft-ConLig.woff2') format('woff2'),
+        url('HaboroSoft-ConLig.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-NorBol';
+    src: url('HaboroSoft-NorBol.woff2') format('woff2'),
+        url('HaboroSoft-NorBol.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConExB';
+    src: url('HaboroSoft-ConExB.woff2') format('woff2'),
+        url('HaboroSoft-ConExB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConDem';
+    src: url('HaboroSoft-ConDem.woff2') format('woff2'),
+        url('HaboroSoft-ConDem.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConReg';
+    src: url('HaboroSoft-ConReg.woff2') format('woff2'),
+        url('HaboroSoft-ConReg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-NorMed';
+    src: url('HaboroSoft-NorMed.woff2') format('woff2'),
+        url('HaboroSoft-NorMed.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConBoo';
+    src: url('HaboroSoft-ConBoo.woff2') format('woff2'),
+        url('HaboroSoft-ConBoo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConBol';
+    src: url('HaboroSoft-ConBol.woff2') format('woff2'),
+        url('HaboroSoft-ConBol.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtMed';
+    src: url('HaboroSoft-ExtMed.woff2') format('woff2'),
+        url('HaboroSoft-ExtMed.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-NorDem';
+    src: url('HaboroSoft-NorDem.woff2') format('woff2'),
+        url('HaboroSoft-NorDem.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtBol';
+    src: url('HaboroSoft-ExtBol.woff2') format('woff2'),
+        url('HaboroSoft-ExtBol.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtLig';
+    src: url('HaboroSoft-ExtLig.woff2') format('woff2'),
+        url('HaboroSoft-ExtLig.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-NorExB';
+    src: url('HaboroSoft-NorExB.woff2') format('woff2'),
+        url('HaboroSoft-NorExB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ExtExB';
+    src: url('HaboroSoft-ExtExB.woff2') format('woff2'),
+        url('HaboroSoft-ExtExB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-NorReg';
+    src: url('HaboroSoft-NorReg.woff2') format('woff2'),
+        url('HaboroSoft-NorReg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HaboroSoft-ConMed';
+    src: url('HaboroSoft-ConMed.woff2') format('woff2'),
+        url('HaboroSoft-ConMed.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
